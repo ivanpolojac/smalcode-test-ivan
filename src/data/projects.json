@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "owner": "John Doe"
+  },
+  {
+    "id": 2,
+    "name": "Peach",
+    "owner": "Karen Winter"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "owner": "K20pxaren Winter"
+  }
+]

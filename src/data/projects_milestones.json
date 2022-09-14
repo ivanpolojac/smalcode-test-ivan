@@ -1,0 +1,22 @@
+[
+  {
+    "project_id": 1,
+    "milestone_id": 1,
+    "completion_date": "2022-08-31"
+  },
+  {
+    "project_id": 1,
+    "milestone_id": 2,
+    "completion_date": "2022-09-30"
+  },
+  {
+    "project_id": 2,
+    "milestone_id": 1,
+    "completion_date": "2022-08-31"
+  },
+  {
+    "project_id": 3,
+    "milestone_id": 2,
+    "completion_date": "2022-08-31"
+  }
+]
